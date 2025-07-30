@@ -1,7 +1,7 @@
 # 🍽️ Reestar – Simple & Stylish Recipe Showcase
 
 **Reestar** is a clean, minimal, and responsive HTML/CSS project that showcases delicious dishes in a stylish layout.
-Here is my webpage: 
+Here is my webpage: https://roozz24.github.io/Varitican-Home-Page/
 
 ## ✨ Features
 
