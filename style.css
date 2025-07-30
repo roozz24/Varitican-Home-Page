@@ -1,0 +1,84 @@
+* {
+    font-family: "Ubuntu", sans-serif;
+}
+
+.section-one {
+    text-align: center;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    padding: 10px;
+}
+
+.section-two__img,
+.section-three__img,
+.section-four__img,
+.section-five__img {
+    height: 350px;
+    width: 200px;
+}
+
+.gallery-container {
+    text-align: center;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    display: inline-block;
+    margin: 1px;
+    vertical-align: top;
+    margin-top: 15px;
+    border: solid 5px  rgb(83, 83, 83);
+    width: 200px;
+    border-radius: 4px;
+
+}
+
+.section-two__button, .section-three__button,
+.section-four__button, .section-five__button {
+    background-color:  rgb(83, 83, 83);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+
+.section-six {
+    background-color: rgb(83, 83, 83);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.section-six__contact {
+    text-align: center;
+}
+
+.section-six__table {
+    margin: 0 auto;
+}
+
+.section-six__table input {
+    width: 250px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.section-six__send {
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 2px;
+    text-decoration-style: bold;
+    background-color: #f1c40f;
+    color: rgb(0, 0, 0);
+}
+
+.button-wrapper {
+    text-align: center;
+}
